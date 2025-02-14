@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **muqui/muqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Mi nombre es Alberto Corona, Actualmente estoy studiando FullStack developer en Henry con especialidad en Backend tengo conocimientos en nestJs del lado del backend, React  y react Native y Java FX para el Frontend, para la base de datos con Mysql, postgresql y mongodb.
+<p>
+  Mi nombre es <strong>Alberto Corona</strong>Alberto Corona, Actualmente estoy studiando FullStack developer en Henry con especialidad en Backend tengo conocimientos en nestJs del lado del backend, React  y react Native y Java FX para el Frontend, para la base de datos con Mysql, postgresql y mongodb.
+</p>
