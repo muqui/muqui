@@ -30,7 +30,7 @@
 
 
  
-Mi sistema operativo favorita es **Fedora linux**, pero para mi actual trabajo debo usar Windows, tambien administro mi VPS con **debian linux** 
+Mi sistema operativo favorita es **Fedora linux**, pero para mi actual trabajo debo usar Windows, tambien administro mi VPS con **debian linux.** 
 <br>
 **Contactame**
 coronanavarro@gmail.com
