@@ -25,4 +25,6 @@
   - Expo Go
   - OpenVPN
   - Git
+ 
+Mi sistema favorita es **Fedora linux**, pero para mi actual trabajo debo usar Windows, tambien administro mi VPS con **debian linux** 
 
